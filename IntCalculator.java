@@ -6,7 +6,6 @@ import java.util.HashMap;
  * The command line argument must be put in quotes, as in:
  * java IntCalculator "(2 x 3) ^ 2"
  * @author Mahrukh Ali
- * @uni ma4203
  * @version 1.0 October 5, 2022
  */
 public class IntCalculator {
