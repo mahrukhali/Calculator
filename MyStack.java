@@ -1,7 +1,6 @@
 /**
  * Interface for stack
  * @author Mahrukh Ali
- * @uni Ma4203
  * @version 1.0 September 27, 2022
  */
 
